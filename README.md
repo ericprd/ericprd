@@ -1,23 +1,24 @@
 <div align="center">
 
-# HI, THERE!
+# <strong>HI, THERE!</strong>
 
 <br />
 
-## About Me
+## <strong>About Me</strong>
 
 <br />
+<div align="left">
 
 Hello my name is **Eric Pradana**,
 i am a _Web Developer_.</h2>
 
+I like to work with nodeJS and expressJS for backend, and currently learning about frontend with ReactJS and TailwindCSS or SASS for styling. I build something for fun and for study.
 
-Currently focus on Frontend development but mostly code
-for Backend application. I like to read book and watch some anime.
+</div>
 
 <br />
 
-## Skills Set:
+## <strong>Skills Set:</strong>
 
 <br />
 
@@ -38,7 +39,7 @@ for Backend application. I like to read book and watch some anime.
 <br />
 <br />
 
-## Contact
+## <strong>Contact</strong>
 
 <br />
 
