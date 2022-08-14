@@ -1,6 +1,6 @@
 <div align="center">
 
-# WELCOME
+# HI, THERE!
 
 ## About Me
 
