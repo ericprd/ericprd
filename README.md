@@ -1,6 +1,6 @@
 <div style="text-align: center; width: 400px; margin: 0 auto;">
 
-# WELCOME
+# HI, THERE!
 
 ## About Me
 
