@@ -1,4 +1,4 @@
-<div align="center" width="350px">
+<div align="center">
 
 # HI, THERE!
 
@@ -30,9 +30,7 @@ If you have any question for me,
 you can find me here:
 
 [Github](https://github.com/ericprd)
-
 [Twitter](https://twitter.com/_livingDe4th)
-
 [Email](ericpradaa@proton.me)
 
 </div>
