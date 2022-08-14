@@ -1,10 +1,10 @@
 <div align="center">
 
-# <strong>HI, THERE!</strong>
+# **HI, THERE!**
 
 <br />
 
-## <strong>About Me</strong>
+## **About Me**
 
 <br />
 <div align="left">
@@ -18,7 +18,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 
 <br />
 
-## <strong>Skills Set:</strong>
+## **Skills Set:**
 
 <br />
 
@@ -39,7 +39,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 <br />
 <br />
 
-## <strong>Contact</strong>
+## **Contact**
 
 <br />
 
