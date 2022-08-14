@@ -1,4 +1,4 @@
-<div style="text-align: center; width: 400px; margin: 0 auto;">
+<div align="center">
 
 # WELCOME
 
@@ -12,7 +12,7 @@ for Backend application. I like to read book and watch some anime.
 
 ## Skills Set:
 
-<div style="text-align: left; width: 300px;margin: 0 auto;">
+<div align="left">
 
 - HTML5
 - CSS3
@@ -29,14 +29,10 @@ for Backend application. I like to read book and watch some anime.
 If you have any question for me,
 you can find me here:
 
-<div style="display: flex; gap: 10px; width: 100%; align-items: center; justify-content: center;">
-
 [Github](https://github.com/ericprd)
 
 [Twitter](https://twitter.com/_livingDe4th)
 
 [Email](ericpradaa@proton.me)
-
-</div>
 
 </div>
