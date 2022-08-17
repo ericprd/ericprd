@@ -13,7 +13,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 
 </div>
 
-### **Skills Set:**
+### Skills Set:
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
