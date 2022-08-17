@@ -2,18 +2,18 @@
 
 # **HI, THERE!**
 
-## **About Me**
+### **About Me**
 
 <div align="left">
 
 Hello my name is **Eric Pradana**,
-i am a _Web Developer_.</h2>
+i am a _Web Developer_.
 
 I like to work with nodeJS and expressJS for backend, and currently learning about frontend with ReactJS and TailwindCSS or SASS for styling. I build something for fun and for study.
 
 </div>
 
-## **Skills Set:**
+### **Skills Set:**
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericprd&theme=cobalt" />
 
-## **Contact**
+### **Contact**
 
 If you have any question for me,
 you can find me here:
