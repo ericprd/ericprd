@@ -25,6 +25,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericprd&theme=cobalt" />
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericprd&show_icons=true&theme=material-palenight)
 
 ### **Contact**
 
