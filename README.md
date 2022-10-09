@@ -19,7 +19,7 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 
 ### Learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=express,nextjs,python,java,php)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=express,nextjs,python,java,php,graphql)](https://skills.thijs.gg)
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericprd&theme=cobalt) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericprd&show_icons=true&theme=material-palenight)
 
