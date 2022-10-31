@@ -32,4 +32,6 @@ you can find me here:
 <a href="https://twitter.com/_livingDe4th"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:ericpradana@proton.me"><img alt="email" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
+
+[![@ericprd's Holopin board](https://holopin.me/ericprd)](https://holopin.io/@ericprd)
 </div>
