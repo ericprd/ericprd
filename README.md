@@ -15,11 +15,11 @@ I like to work with nodeJS and expressJS for backend, and currently learning abo
 
 ### Skills Set:
   
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,sass,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,sass,tailwind)](https://skills.thijs.gg)
 
 ### Learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=express,nextjs,python,java,php,graphql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=express,python,java,php,graphql)](https://skills.thijs.gg)
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericprd&theme=cobalt) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericprd&show_icons=true&theme=material-palenight)
 
